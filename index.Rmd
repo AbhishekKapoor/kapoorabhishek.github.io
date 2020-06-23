@@ -1,0 +1,18 @@
+---
+title: "My Homepage"
+---
+## Customers Reviews 
+
+**Reviews** not only have power to influence customers decisions but it can also strengthen company's credibility.
+It can aid new product development and design/tweak the marketing campaign.
+
+Consumers in India and across the world has always relied on advice and recommendations from others before making purchasing decisions and in today's digital world, advice & reccomendation has replaced by customer rating and reviews.
+
+And these customer reviews are avilable as the *#opendata* and which companies can easily use to drive the insights from it. One of my mobile client always take customer experience feedback of their models after the launch in 1st week, 2nd week and after the month.However, product related insights can be drived from reviews posted on e-commerce websites, which accounts for major chunk of mobile handset sales.   
+
+Recently while preparing for the pitch presentation for the new client, I started learning web-scrapping and using Python downloaded customer reviews from Amazon.So decided to work on reviews for category which is very dynamic - Mobile Handsets.
+
+Recently, Vivo has launched it's flagship model V19 and so decided to download its reviews from Amazon India website and drive insights from it.
+
+_**"Camera with Mobile. Stunning pics. Fast charging. Performance is good. Price little bit high."**_
+

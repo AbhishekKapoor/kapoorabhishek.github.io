@@ -1,0 +1,12 @@
+name: "my-website"
+navbar:
+  title: "Data Quest"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: tango
